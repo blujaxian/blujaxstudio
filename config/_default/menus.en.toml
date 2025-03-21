@@ -23,17 +23,17 @@
 [[main]]
  name = "Trad. Art"
  pageRef = "t-art"
- weight = 20
+ weight = 10
 
  [[main]]
  name = "Digital Art"
  pageRef = "d-art"
- weight = 20
+ weight = 10
 
  [[main]]
  name = "Social Creations"
  pageRef = "sc"
- weight = 10
+ weight = 30
 
 #[[main]]
 #  name = "Parent"
